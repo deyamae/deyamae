@@ -7,7 +7,7 @@
 import { StudentWebDeveloper } from '@deyamae'; 
 
 class Bio extends StudentWebDeveloper { 
-  name     = 'Andy'; 
+  name     = 'Andrea Quintana'; 
   title    = 'Aspiring Full-Stack Developer'; 
   location = 'Philippines'; 
   uptime   = '21 years'; 
