@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/deyamae/deyamae/raw/main/jims-computer.jpg" alt="Jims Computer" width="1000" height="400" />
+</p>
+
+
 ```js
 import { StudentWebDeveloper } from '@deyamae'; 
 
