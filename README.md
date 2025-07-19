@@ -10,7 +10,7 @@ class Bio extends StudentWebDeveloper {
   name     = 'Andrea Quintana'; 
   title    = 'Aspiring Full-Stack Developer'; 
   location = 'Philippines'; 
-  uptime   = '21 years'; 
+  uptime   = '22 years'; 
 }
 
 class Skills extends StudentWebDeveloper { 
